@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+
+{% include "about.html" %}
+
+<br>
+<h1>Career</h1>
+{% for career in data.career_files %}
+  <h2>{{ career.title }}</h2>
+  <p>{{ career.summary | safe}}</p>
+  <div class="align-right">
+    <a href="./career/{{ career.title }}/index.html" class="button">More</a>
+  </div>
+{% endfor %}
+
+<br>
+<h1>Project</h1>
+{% for project in data.project_files %}
+  <h2>{{ project.title }}</h2>
+  <p>{{ project.summary | safe}}</p>
+  <div class="align-right">
+    <a href="./project/{{ project.title }}/index.html" class="button">More</a>
+  </div>
+{% endfor %}
+
+{% include "others.html" %}
+
+{% endblock %}

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8" />
+    <title>JUNGEUN PARK</title>
+    <link
+        rel="stylesheet"
+        href="../../static/css/styles.css"
+    />
+    </head>
+    
+    <body>
+        <header>
+            <div class="header-content">
+                <a href="/" class="logo">JE</a>
+            </div>
+        </header>
+
+        <main>
+            <h1>FAVICON</h1>
+            <h2>Summary</h2>
+            <p><strong>백엔드 | 공공 데이터 통합 플랫폼</strong> (5인, 2024.07 – 2025.06) | Spring Boot, Spring Scheduler, PostgreSQL, Python, Selenium, GitHub Actions, Docker, Amazon EC2, Amazon S3, Amazon RDS </p>
+            <ul>
+                <li>회원 관리/통계, 데이터 관련 기능(북마크, 검색, 통계), 데이터 수집 크롤러 구현</li>
+                <li>팀원 간 소통을 위한 슬랙봇 개발</li>
+                <li>CI/CD 파이프라인 구축을 통해 자동화된 빌드 및 배포 환경 조성</li>
+            </ul>
+            <br>
+
+            <h2>Description</h2>
+            <p>
+                기후, 환경, 질병의 연관 통계를 위한 데이터 플랫폼 구현 프로젝트.  <br>
+                사용자 페이지와 관리자 페이지가 구분되어 있음.
+                사용자는 업로드된 데이터를 1-2개 선택하여 지역/기간별로 통계 분석을 할 수 있고, 결과에 대한 ai의 분석이 나옴. 원하는 데이터가 없으면 데이터 요청 가능.
+                관리자는 데이터/사용자 통계 확인이 가능하고 데이터 업로드, 사용자 관리가 가능함.
+            </p>
+
+            <h2>Role & Contribution</h2>
+            <ul>
+                <li>백엔드 기능 개발</li>
+                <ul> 
+                    <li>북마크 관리, 데이터 검색, 데이터 및 사용자 통계 기능</li>
+                    <li>회원관리(로그인, 로그아웃, 회원가입, 회원탈퇴, 회원삭제)</li> 
+                    <li>Thymeleaf 기반 이메일 인증 템플릿 개발</li>
+                </ul>
+                <li>Python + Selenium 기반 크롤러 개발: 공공데이터포털에서 데이터 자동 수집</li>
+                <li>Slack 봇 개발: 회의 일정 자동 알림, PR 요청 알림, Slack Webhook 연동</li>
+                <li>CI/CD 파이프라인 구축: GitHub Actions와 Docker Hub 연동, 자동 빌드 및 EC2 배포</li>
+                <li>백엔드 코드 리팩토링: 유지보수성 및 성능 향상을 위한 코드 구조 개선</li>
+            </ul>
+
+            <h2>Output</h2>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>GitHub</td>
+                        <td><a href="https://github.com/favicon-data">GitHub 주소</a></td>
+                    </tr>
+                    <tr>
+                        <td>API 명세서</td>
+                        <td><a href="https://petite-ox-5a5.notion.site/API-21c045bbe19f80adad71d2710ceb402f?source=copy_link">HTTP API 설명</a></td>
+                    </tr>
+                    <tr>
+                        <td>ERD Diagram</td>
+                        <td><a href="https://petite-ox-5a5.notion.site/ERD-21c045bbe19f80718089ecff3957e9c5?source=copy_link">데이터베이스 구조 설계</a></td>
+                    </tr>
+                    <tr>
+                        <td>Data Flow</td>
+                        <td><a href="https://petite-ox-5a5.notion.site/Data-Flow-21c045bbe19f80889dcbe0284912d01c?source=copy_link">웹 페이지에서 이루어지는 데이터 흐름</a></td>
+                    </tr>
+                    <tr>
+                        <td>CI/CD</td>
+                        <td><a href="https://petite-ox-5a5.notion.site/CI-CD-Data-Flow-218045bbe19f8083b44cd1b4a7c77b0f?source=copy_link">자동화된 빌드/배포 파이프라인</a></td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+            <h2>Skills</h2>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>Backend</td>
+                        <td><code>Spring Boot, Spring Scheduler, PostgreSQL</code></td>
+                    </tr>
+                    <tr>
+                        <td>Frontend</td>
+                        <td><code>React, JavaScript, TypeScript, CSS, HTML</code></td>
+                    </tr>
+                    <tr>
+                        <td>Data</td>
+                        <td><code>Python, Jupyter NoteBook, Selenium, Pandas, Matplotlib</code></td>
+                    </tr>
+                    <tr>
+                        <td>CI/CD & Infra</td>
+                        <td><code>GitHub Actions, Docker, Amazon S3, Amazon EC2, Amazon RDS</code></td>
+                    </tr>
+                    <tr>
+                        <td>Collaboration</td>
+                        <td><code>JIRA, Slack, Notion, Figma, Discord</code></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2>Reflection</h2>
+            <p>
+                초반에 문서화가 필요한 작업을 제대로 해놓지 않고 개발을 시작하면서 요구사항 변경이 반복되어 혼란을 겪었습니다. 
+                특히 GPT API를 프론트에서 호출했다가 보안 문제를 인지하고 백엔드로 급히 이전한 경험을 통해 설계 초기 단계에서 <strong>보안과 역할 분리</strong>를 고려하는 것의 중요성을 깨달았습니다.<br>
+                또 초기 CI/CD 파이프라인 구축 시에는 Jenkins를 사용했는데, 이를 위해 서버를 하나 더 관리하는 것이 프로젝트 규모에 비해 과하다고 느껴졌고, 매번 대시보드로 들어가서 확인을 하는 것이 번거로웠습니다. 
+                깃허브에서 PR 연동을 하려면 <code>GitHub Pull Request Builder 플러그인</code>을 사용해야 했는데 보안 경고가 떠서 안전성을 고려해 <strong>Actions 기반으로 전환</strong> 했습니다. 
+                덕분에 PR 생성과 동시에 자동 빌드·배포가 이루어지고, GitHub 상에서 바로 결과를 확인할 수 있어 편해졌습니다.
+                이로써 기술스택 선정에는 <strong>기술에 대한 충분한 이해</strong>가 필요하다는 것을 몸소 느꼈습니다.<br>
+                프로젝트 막판에는 백엔드 코드를 전체적으로 리팩토링하여 프로젝트 구조와 응답을 통일시켜서 프론트와 간단히 통신할 수 있도록 했습니다.
+                프로젝트 설계의 미숙함에도 불구하고 <strong>1주일 단위 스프린트 기반의 애자일 개발 방식</strong>을 통한 논의와 조율의 시간, 팀원 간의 꾸준한 소통 덕분에 모든 주요 기능을 안정적으로 개발할 수 있었습니다. 
+            </p>
+
+        </main>
+
+        <footer>&copy; 2025 Jungeun Park. All rights reserved.</footer>
+    </body>
+</html>
