@@ -64,10 +64,10 @@
 
 | Project | Role | Description |
 |:--|:--|:--|
-| **FAVICON** <sup>`캡스톤`</sup> | Backend · Data · Bot | 공공데이터 수집·분석 포털. [`BE`](https://github.com/favicon-data/back) GPT·S3·인증·CI/CD, [`DATA`](https://github.com/favicon-data/data) Selenium 크롤러, [`STAR`](https://github.com/favicon-data/star) Slack 협업 봇 단독 구현 |
-| **reflector** | Backend · Frontend | 코딩테스트 풀이를 블록 단위로 기록·회고하는 TIL 학습 웹앱. [`BE`](https://github.com/do-yakk/reflector_BE) Post·Block·Hashtag 도메인 설계, 태그 기반 코드 검색(N:N) · [`FE`](https://github.com/do-yakk/reflector_FE) 포스트 작성 화면, GitHub Actions 빌드 테스트 CI |
-| **Saboteur** | Backend | 실시간 멀티플레이 카드 게임 서버. [`BE`](https://github.com/snowhite-hyu/backend) WebFlux 리액티브 JWT 인증·회원 API, Redis 기반 게임 로직(카드 가져오기·버리기·턴 전환)·WebSocket 핸들러 구현 |
-| **Weave** <sup>`해커톤`</sup> | Backend · Frontend | AI 문해력 향상 학습 서비스(2025 Sumtech). [`BE`](https://github.com/pumkinbee/backend) 출석·학습 통계(Redis 캐시+DB 하이브리드, 주간 스케줄 갱신) · [`FE`](https://github.com/pumkinbee/frontend) 학습·사용자 페이지 구현 |
+| [**FAVICON**](https://github.com/favicon-data) <sup>`캡스톤`</sup> | Backend · Data · Bot | 공공데이터 수집·분석 포털. [`BE`](https://github.com/favicon-data/back) GPT·S3·인증·CI/CD, [`DATA`](https://github.com/favicon-data/data) Selenium 크롤러, [`STAR`](https://github.com/favicon-data/star) Slack 협업 봇 단독 구현 |
+| [**reflector**](https://github.com/do-yakk) | Backend · Frontend | 코딩테스트 풀이를 블록 단위로 기록·회고하는 TIL 학습 웹앱. [`BE`](https://github.com/do-yakk/reflector_BE) Post·Block·Hashtag 도메인 설계, 태그 기반 코드 검색(N:N) · [`FE`](https://github.com/do-yakk/reflector_FE) 포스트 작성 화면, GitHub Actions 빌드 테스트 CI |
+| [**Saboteur**](https://github.com/snowhite-hyu) | Backend | 실시간 멀티플레이 카드 게임 서버. [`BE`](https://github.com/snowhite-hyu/backend) WebFlux 리액티브 JWT 인증·회원 API, Redis 기반 게임 로직(카드 가져오기·버리기·턴 전환)·WebSocket 핸들러 구현 |
+| [**Weave**](https://github.com/pumkinbee) <sup>`해커톤`</sup> | Backend · Frontend | AI 문해력 향상 학습 서비스(2025 Sumtech). [`BE`](https://github.com/pumkinbee/backend) 출석·학습 통계(Redis 캐시+DB 하이브리드, 주간 스케줄 갱신) · [`FE`](https://github.com/pumkinbee/frontend) 학습·사용자 페이지 구현 |
 
 <br/>
 
