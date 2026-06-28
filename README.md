@@ -1,7 +1,7 @@
 <h1 align="center">박정은 · Park Jeong-Eun</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=600&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=540&lines=%ED%95%84%EC%9A%94%ED%95%9C+%EB%8F%84%EA%B5%AC%EB%A5%BC+%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%9C%EB%8A%94+%ED%8F%B4%EB%A6%AC%EA%B8%80%EB%9E%AB+%EA%B0%9C%EB%B0%9C%EC%9E%90;Backend+%C2%B7+CLI+%C2%B7+IoT+%C2%B7+Desktop+%C2%B7+Plugin" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=600&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=640&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94+%EB%8F%84%EA%B5%AC%EB%A5%BC+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Full+Stack+%C2%B7+Tooling+%C2%B7+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 | [**FAVICON**](https://github.com/favicon-data) <sup>`캡스톤`</sup> | Backend · Data · Bot | 공공데이터 수집·분석 포털. [`BE`](https://github.com/favicon-data/back) GPT·S3·인증·CI/CD, [`DATA`](https://github.com/favicon-data/data) Selenium 크롤러, [`STAR`](https://github.com/favicon-data/star) Slack 협업 봇 단독 구현 |
 | [**reflector**](https://github.com/do-yakk) | Backend · Frontend | 코딩테스트 풀이를 블록 단위로 기록·회고하는 TIL 학습 웹앱. [`BE`](https://github.com/do-yakk/reflector_BE) Post·Block·Hashtag 도메인 설계, 태그 기반 코드 검색(N:N) · [`FE`](https://github.com/do-yakk/reflector_FE) 포스트 작성 화면, GitHub Actions 빌드 테스트 CI |
 | [**Saboteur**](https://github.com/snowhite-hyu) | Backend | 실시간 멀티플레이 카드 게임 서버. [`BE`](https://github.com/snowhite-hyu/backend) WebFlux 리액티브 JWT 인증·회원 API, Redis 기반 게임 로직(카드 가져오기·버리기·턴 전환)·WebSocket 핸들러 구현 |
-| [**Weave**](https://github.com/pumkinbee) <sup>`해커톤`</sup> | Backend · Frontend | AI 문해력 향상 학습 서비스(2025 Sumtech). [`BE`](https://github.com/pumkinbee/backend) 출석·학습 통계(Redis 캐시+DB 하이브리드, 주간 스케줄 갱신) · [`FE`](https://github.com/pumkinbee/frontend) 학습·사용자 페이지 구현 |
+| [**Weave**](https://github.com/pumkinbee) <sup>`해커톤`</sup> | Backend · Frontend | AI 문해력 향상 학습 서비스(2025 Sumtech). [`BE`] 출석·학습 통계(Redis 캐시+DB 하이브리드, 주간 스케줄 갱신) · [`FE`] 학습·사용자 페이지 구현 |
 
 <br/>
 
