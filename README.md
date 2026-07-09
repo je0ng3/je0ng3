@@ -15,8 +15,8 @@
 
 ### 🧩 About
 
-포괄적 이해를 기반으로 하는 풀스택 개발자입니다.  
-필요한 기술을 빠르게 학습하고 적용하며, 다양한 기술에 대한 이해를 바탕으로 효과적으로 협업합니다!
+아이디어를 동작하는 제품으로 만드는 걸 좋아하는 개발자입니다.  
+모바일(KMP)부터 백엔드, AI 도구까지 폭넓게 다루며, 필요한 기술을 빠르게 학습·적용하고 포괄적 이해를 바탕으로 효과적으로 협업합니다!
 
 ---
 
@@ -50,11 +50,8 @@
 
 | Project | Description |
 |:--|:--|
-| [**AutoDub**](https://github.com/je0ng3/AutoDub) | ElevenLabs로 영상·오디오를 자동 더빙하는 웹 서비스 — 전사·번역·음성 합성·먹싱까지 |
-| [**vibi-adobe-plugin**](https://github.com/je0ng3/vibi-adobe-plugin) | Premiere Pro용 UXP 패널. 클립 오디오를 화자별 보이스 스템과 배경음악으로 분리 |
-| [**remindme-cli**](https://github.com/je0ng3/remindme-cli) | gRPC 기반 일정 알림 CLI. 지정한 시각에 macOS 알림·메일로 리마인드 |
-| [**Noti**](https://github.com/je0ng3/Noti) | 거미 캐릭터가 자기관리 잔소리를 띄우는 WinUI 3 데스크톱 위젯 |
-| [**typhoon_warning_system**](https://github.com/je0ng3/typhoon_warning_system) | ESP8266 기반 IoT 강수위 조기경보 시스템. 3단계 경보 + 원격 모니터링 |
+| [**vibi**](https://github.com/je0ng3/vibi) | 영상 내 화자별 음원 및 배경음과 리액션 분리, 볼륨 조절 후 믹스<br/>[`APP`](https://github.com/je0ng3/vibi) Kotlin·Compose Multiplatform 단일 코드베이스(Android·iOS) · [`BFF`](https://github.com/je0ng3/vibi-bff) Ktor 백엔드(Perso AI·소셜 로그인·크레딧·ffmpeg 렌더링) · [`PLUGIN`](https://github.com/je0ng3/vibi-adobe-plugin) Premiere Pro UXP 패널 · [`DOCS`](https://github.com/je0ng3/vibi-landing) 문서 쇼케이스 |
+| [**typhoon_warning_system**](https://github.com/je0ng3/typhoon_warning_system) | ESP8266 기반 IoT 강수위 조기경보 시스템. 초음파 센서로 수위 측정, LED·부저·OLED·Blynk 앱으로 3단계 경보 + 원격 모니터링 |
 
 <p align="right"><sub>알고리즘 풀이 → <a href="https://github.com/je0ng3/Algorithm">Algorithm</a> · 백준 · 프로그래머스 · LeetCode</sub></p>
 
@@ -66,7 +63,7 @@
 |:--|:--|:--|
 | [**FAVICON**](https://github.com/favicon-data) <sup>`캡스톤`</sup> | Backend · Data · Bot | 공공데이터 수집·분석 포털. [`BE`](https://github.com/favicon-data/back) GPT·S3·인증·CI/CD, [`DATA`](https://github.com/favicon-data/data) Selenium 크롤러, [`STAR`](https://github.com/favicon-data/star) Slack 협업 봇 단독 구현 |
 | [**reflector**](https://github.com/do-yakk) | Backend · Frontend | 코딩테스트 풀이를 블록 단위로 기록·회고하는 TIL 학습 웹앱. [`BE`](https://github.com/do-yakk/reflector_BE) Post·Block·Hashtag 도메인 설계, 태그 기반 코드 검색(N:N) · [`FE`](https://github.com/do-yakk/reflector_FE) 포스트 작성 화면, GitHub Actions 빌드 테스트 CI |
-| [**Saboteur**](https://github.com/snowhite-hyu) | Backend | 실시간 멀티플레이 카드 게임 서버. [`BE`](https://github.com/snowhite-hyu/backend) WebFlux 리액티브 JWT 인증·회원 API, Redis 기반 게임 로직(카드 가져오기·버리기·턴 전환)·WebSocket 핸들러 구현 |
+| [**Saboteur**](https://github.com/snowhite-hyu) <sup>`HYU`</sup>| Backend | 실시간 멀티플레이 카드 게임 서버. [`BE`](https://github.com/snowhite-hyu/backend) WebFlux 리액티브 JWT 인증·회원 API, Redis 기반 게임 로직(카드 가져오기·버리기·턴 전환)·WebSocket 핸들러 구현 |
 | [**Weave**](https://github.com/pumkinbee) <sup>`해커톤`</sup> | Backend · Frontend | AI 문해력 향상 학습 서비스(2025 Sumtech). [`BE`] 출석·학습 통계(Redis 캐시+DB 하이브리드, 주간 스케줄 갱신) · [`FE`] 학습·사용자 페이지 구현 |
 
 <br/>
