@@ -1,7 +1,7 @@
 <h1 align="center">박정은 · Park Jeong-Eun</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=600&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=640&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94+%EB%8F%84%EA%B5%AC%EB%A5%BC+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Full+Stack+%C2%B7+Tooling+%C2%B7+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=600&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=640&lines=%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC+%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Full+Stack+%C2%B7+Mobile+%28KMP%29+%C2%B7+Backend" alt="Typing SVG" />
 </p>
 
 <p align="center">
