@@ -1,34 +1,21 @@
-<h1 align="center">박정은 · Park Jeong-Eun</h1>
+<h3 align="center">박정은 · Park Jeong-Eun</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=600&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=640&lines=%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC+%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Full+Stack+%C2%B7+Mobile+%28KMP%29+%C2%B7+Backend" alt="Typing SVG" />
+  아이디어를 동작하는 제품으로 만드는 개발자<br/>
+  Full Stack · Mobile (KMP) · Backend
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=je0ng3&style=flat-square&color=0D1117&label=visitors" alt="visitors" />
-  &nbsp;
-  <a href="mailto:devrel.365@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/je0ng3"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
----
-
-### 🧩 About
-
-아이디어를 동작하는 제품으로 만드는 걸 좋아하는 개발자입니다.  
-모바일(KMP)부터 백엔드, AI 도구까지 폭넓게 다루며, 필요한 기술을 빠르게 학습·적용하고 포괄적 이해를 바탕으로 효과적으로 협업합니다!
 
 ---
 
 ### 🛠️ Tech
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <br/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" alt="gRPC"/>
@@ -38,24 +25,19 @@
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
----
-
 ### 🚀 Projects
 
 | Project | Description |
 |:--|:--|
-| [**vibi**](https://github.com/je0ng3/vibi) | 영상 내 화자별 음원 및 배경음과 리액션 분리, 볼륨 조절 후 믹스<br/>[`APP`](https://github.com/je0ng3/vibi) Kotlin·Compose Multiplatform 단일 코드베이스(Android·iOS) · [`BFF`](https://github.com/je0ng3/vibi-bff) Ktor 백엔드(Perso AI·소셜 로그인·크레딧·ffmpeg 렌더링) · [`PLUGIN`](https://github.com/je0ng3/vibi-adobe-plugin) Premiere Pro UXP 패널 · [`DOCS`](https://github.com/je0ng3/vibi-landing) 문서 쇼케이스 |
+| [**vibi**](https://github.com/je0ng3/vibi) | 영상 속 화자별 목소리·배경음·리액션을 분리해 각각 볼륨을 조절하고 다시 믹스하는 영상 편집 도구<br/>[`APP`](https://github.com/je0ng3/vibi) Kotlin·Compose Multiplatform 단일 코드베이스(Android·iOS) · [`BFF`](https://github.com/je0ng3/vibi-bff) Ktor 백엔드(Perso AI·소셜 로그인·크레딧·ffmpeg 렌더링) · [`PLUGIN`](https://github.com/je0ng3/vibi-adobe-plugin) Premiere Pro UXP 패널 · [`DOCS`](https://github.com/je0ng3/vibi-landing) 문서 쇼케이스 |
 | [**typhoon_warning_system**](https://github.com/je0ng3/typhoon_warning_system) | ESP8266 기반 IoT 강수위 조기경보 시스템. 초음파 센서로 수위 측정, LED·부저·OLED·Blynk 앱으로 3단계 경보 + 원격 모니터링 |
 
 <p align="right"><sub>알고리즘 풀이 → <a href="https://github.com/je0ng3/Algorithm">Algorithm</a> · 백준 · 프로그래머스 · LeetCode</sub></p>
-
----
 
 ### 👥 Team Projects
 
@@ -68,4 +50,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=80&section=footer" alt="footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=80&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d0d7de,100:f6f8fa&height=80&section=footer" alt="footer" width="100%"/>
+</picture>
