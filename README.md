@@ -34,7 +34,7 @@
 
 | Project | Description |
 |:--|:--|
-| [**vibi**](https://github.com/je0ng3/vibi) | 영상 속 화자별 목소리·배경음·리액션을 분리해 각각 볼륨을 조절하고 다시 믹스하는 영상 편집 도구<br/>[`APP`](https://github.com/je0ng3/vibi) Kotlin·Compose Multiplatform 단일 코드베이스(Android·iOS) · [`BFF`](https://github.com/je0ng3/vibi-bff) Ktor 백엔드(Perso AI·소셜 로그인·크레딧·ffmpeg 렌더링) · [`PLUGIN`](https://github.com/je0ng3/vibi-adobe-plugin) Premiere Pro UXP 패널 · [`DOCS`](https://github.com/je0ng3/vibi-landing) 문서 쇼케이스 |
+| [**vibi**](https://github.com/je0ng3/vibi) | 영상 속 화자별 목소리·배경음·리액션을 분리해 각각 볼륨을 조절하고 다시 믹스하는 영상 편집 도구<br/>[`APP`](https://github.com/je0ng3/vibi) Kotlin·Compose Multiplatform 단일 코드베이스(Android·iOS) · [`BFF`](https://github.com/je0ng3/vibi-bff) Ktor 백엔드(Perso AI·소셜 로그인·크레딧·ffmpeg 렌더링) · [`PLUGIN`](https://github.com/je0ng3/vibi-adobe-plugin) Premiere Pro UXP 패널|
 | [**typhoon_warning_system**](https://github.com/je0ng3/typhoon_warning_system) | ESP8266 기반 IoT 강수위 조기경보 시스템. 초음파 센서로 수위 측정, LED·부저·OLED·Blynk 앱으로 3단계 경보 + 원격 모니터링 |
 
 <p align="right"><sub>알고리즘 풀이 → <a href="https://github.com/je0ng3/Algorithm">Algorithm</a> · 백준 · 프로그래머스 · LeetCode</sub></p>
@@ -43,10 +43,10 @@
 
 | Project | Role | Description |
 |:--|:--|:--|
-| [**FAVICON**](https://github.com/favicon-data) <sup>`캡스톤`</sup> | Backend · Data · Bot | 공공데이터 수집·분석 포털. [`BE`](https://github.com/favicon-data/back) GPT·S3·인증·CI/CD, [`DATA`](https://github.com/favicon-data/data) Selenium 크롤러, [`STAR`](https://github.com/favicon-data/star) Slack 협업 봇 단독 구현 |
-| **reflector** | Backend · Frontend | 코딩테스트 풀이를 블록 단위로 기록·회고하는 TIL 학습 웹앱. [`BE`](https://github.com/do-yakk/reflector_BE) Post·Block·Hashtag 도메인 설계, 태그 기반 코드 검색(N:N) · [`FE`](https://github.com/do-yakk/reflector_FE) 포스트 작성 화면, GitHub Actions 빌드 테스트 CI |
+| [**FAVICON**](https://github.com/favicon-data) <sup>`캡스톤`</sup> | Backend | 공공데이터 수집·분석 포털. [`BE`](https://github.com/favicon-data/back) GPT·S3·인증·CI/CD, [`DATA`](https://github.com/favicon-data/data) Selenium 크롤러, [`STAR`](https://github.com/favicon-data/star) Slack 협업 봇 단독 구현 |
+| **reflector** | Fullstack | 코딩테스트 풀이를 블록 단위로 기록·회고하는 TIL 학습 웹앱. [`BE`](https://github.com/do-yakk/reflector_BE) Post·Block·Hashtag 도메인 설계, 태그 기반 코드 검색(N:N) · [`FE`](https://github.com/do-yakk/reflector_FE) 포스트 작성 화면, GitHub Actions 빌드 테스트 CI |
 | [**Saboteur**](https://github.com/snowhite-hyu) <sup>`HYU`</sup>| Backend | 실시간 멀티플레이 카드 게임 서버. [`BE`](https://github.com/snowhite-hyu/backend) WebFlux 리액티브 JWT 인증·회원 API, Redis 기반 게임 로직(카드 가져오기·버리기·턴 전환)·WebSocket 핸들러 구현 |
-| [**Weave**](https://github.com/pumkinbee) <sup>`해커톤`</sup> | Backend · Frontend | AI 문해력 향상 학습 서비스(2025 Sumtech). [`BE`] 출석·학습 통계(Redis 캐시+DB 하이브리드, 주간 스케줄 갱신) · [`FE`] 학습·사용자 페이지 구현 |
+| [**Weave**](https://github.com/pumkinbee) <sup>`해커톤`</sup> | Fullstack | AI 문해력 향상 학습 서비스(2025 Sumtech). [`BE`] 출석·학습 통계(Redis 캐시+DB 하이브리드, 주간 스케줄 갱신) · [`FE`] 학습·사용자 페이지 구현 |
 
 <br/>
 
